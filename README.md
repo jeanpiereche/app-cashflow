@@ -1,5 +1,8 @@
 # cashflow
 
+##
+Proyecto practico hecho con Vue js donde se utilizo composition API y options API
+
 ## Project setup
 ```
 npm install
